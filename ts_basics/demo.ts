@@ -29,3 +29,4 @@ printPerson(person);
 printPerson({firstname: "hello", lastname: "world", age: 29});
 
 //person.address; Property 'address' does not exist on type 'Person'.
+
